@@ -1,0 +1,16 @@
+body {
+
+display: flex;
+
+}
+
+
+.container {
+margin: auto ;
+text-align: center;
+
+}
+
+#currentWord{
+letter-spacing: 20px;
+}
